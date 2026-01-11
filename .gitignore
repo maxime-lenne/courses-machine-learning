@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Données d'entraînement
+**/data/
+dl_multilayer_perceptron/data/
+dl_multilayer_perceptron_cahllenge/data/
