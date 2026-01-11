@@ -39,7 +39,15 @@ Il est conçu pour les apprenants souhaitant mettre en pratique les concepts fon
    pip install -r requirements.txt
    ```
 
-4. Lancez le notebook :
+4. Extrayez les données (images de chats et chiens) :
+
+   ```bash
+   tar -xzf dogs_cats_data.tar.gz
+   ```
+
+   Cela créera le dossier `data/` contenant les images (858 MB décompressés).
+
+5. Lancez le notebook :
 
    ```bash
    jupyter notebook
@@ -47,7 +55,8 @@ Il est conçu pour les apprenants souhaitant mettre en pratique les concepts fon
 
 ## Structure du projet
 
-- `challenge_dogs_cats.ipynb` : notebook principal illustrant le processus de classification d'images  
-- `data/` : dossier contenant les images de chats et de chiens pour l'entraînement et le test  
-- `img/` : ressources visuelles pour la présentation  
+- `challenge_dogs_cats.ipynb` : notebook principal illustrant le processus de classification d'images
+- `dogs_cats_data.tar.gz` : archive compressée (775 MB) contenant les images de chats et chiens
+- `data/` : dossier créé après extraction de l'archive (non versionné dans Git)
+- `img/` : ressources visuelles pour la présentation
 - `requirements.txt` : liste des dépendances Python nécessaires  

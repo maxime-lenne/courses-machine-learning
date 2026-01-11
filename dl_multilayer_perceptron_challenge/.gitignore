@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Data files (keep compressed archive, ignore extracted folder)
+data/
+!data/.gitkeep

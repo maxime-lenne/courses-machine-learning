@@ -1,4 +1,4 @@
-# Phase 1
+## Phase 1
 
 Matin
 Introduction générale à l’IA (historique, cas d’usage, ML, DL etc…)
@@ -10,7 +10,7 @@ https://github.com/Sengsathit/Teaching-PANDAS_essentiels
 https://github.com/Sengsathit/Teaching-MATPLOTLIB_essentiels
 
 
-Phase 2
+## Phase 2
 
 Matin
 Poursuite du travail individuel sur Numpy, Pandas et Matplotlib
@@ -26,7 +26,7 @@ Démonstration et discussion sur la régression logistique : https://github.com/
 Après-midi 
 Activité individuelle sur la régression logistique : https://github.com/Sengsathit/Teaching-ML_challenge_logistic_regression_breast_cancer_wisconsin 
 
-Phase 3
+## Phase 3
 
 Matin
 Introduction aux réseaux de neurones artificiels et au Deep Learning (historique, cas d’usage, fondamentaux)

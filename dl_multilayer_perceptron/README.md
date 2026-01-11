@@ -38,7 +38,15 @@ Il est conçu pour comprendre les étapes fondamentales de la construction, de l
    pip install -r requirements.txt
    ```
 
-4. Lancez le notebook :
+4. Extrayez les données MNIST :
+
+   ```bash
+   tar -xzf mnist_data.tar.gz
+   ```
+
+   Cela créera le dossier `data/` contenant les images MNIST (273 MB décompressés).
+
+5. Lancez le notebook :
 
    ```bash
    jupyter notebook
@@ -46,7 +54,8 @@ Il est conçu pour comprendre les étapes fondamentales de la construction, de l
 
 ## Structure du projet
 
-- `demo_mnist.ipynb` : notebook principal illustrant le processus de classification d'images avec le jeu de données MNIST  
-- `data/` : dossier contenant les données du jeu MNIST  
-- `img/` : ressources visuelles pour la présentation  
+- `demo_mnist.ipynb` : notebook principal illustrant le processus de classification d'images avec le jeu de données MNIST
+- `mnist_data.tar.gz` : archive compressée (20 MB) contenant les données MNIST
+- `data/` : dossier créé après extraction de l'archive (non versionné dans Git)
+- `img/` : ressources visuelles pour la présentation
 - `requirements.txt` : liste des dépendances Python nécessaires  
