@@ -178,3 +178,6 @@ cython_debug/
 **/data/
 dl_multilayer_perceptron/data/
 dl_multilayer_perceptron_cahllenge/data/
+*.tar.gz
+
+.idea
