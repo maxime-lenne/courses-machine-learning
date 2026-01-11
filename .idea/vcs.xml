@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dl_multilayer_perceptron" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dl_multilayer_perceptron_challenge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/essentials_matplotlib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/essentials_numpy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/essentials_pandas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ml_linear_regression" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ml_logistic_regression" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ml_logistic_regression_challenge" vcs="Git" />
+  </component>
+</project>
